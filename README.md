@@ -11,5 +11,5 @@ python3 BT.py
 ![Here](images/unknown.png)
 
 ## Example of Discord Webhook
-![Here]('images/Screenshot 2023-07-02 at 16.06.12.png')
-![Here](images/Screenshot 2023-07-02 at 16.05.55.png)
+![Here](images/Screenshot%202023-07-02%20at%2016.05.55.png)
+![Here](images/Screenshot%202023-07-02%20at%2016.06.12.png)
