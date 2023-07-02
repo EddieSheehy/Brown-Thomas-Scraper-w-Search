@@ -7,5 +7,9 @@ This is me returning to my original project [Here](https://github.com/EddieSheeh
 python3 BT.py
 ```
 
+## Example of Console Output
+![Here](images/unknown.png)
+
 ## Example of Discord Webhook
-![Here]()
+![Here](images/Screenshot 2023-07-02 at 16.06.12.png)
+![Here](images/Screenshot 2023-07-02 at 16.05.55.png)
